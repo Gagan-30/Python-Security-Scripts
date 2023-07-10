@@ -14,3 +14,6 @@ Basic Port scanner to see what ports are active in a network
 Sha1 Password Cracker: 
 Password cracker that uses:
 https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Common-Credentials/10-million-password-list-top-1000000.txt with a SHA1 Hash applied
+
+WifiStealer: 
+Attempts to crack wifiPasswords and send results back to host via email
